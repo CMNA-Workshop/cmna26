@@ -1,0 +1,80 @@
+baseURL: https://cmna-workshop.github.io/cmna26
+languageCode: en-gb
+title: CMNA'26
+theme: PaperModX
+publishDir: docs
+params:
+  description: "Theme PaperModX - https://github.com/reorx/hugo-PaperModX"
+  author:
+    - Simon
+  homeInfoParams:
+    Title: "The 26th International Workshop on Computational Models of Natural Argument (CMNA'26)"
+    Content: |
+        The forthcoming 26th Edition of the Workshop on Computational Models of Natural Argument (CMNA'26) will be held independently & online as we celebrate twenty-five years of this workshop series and look forward to a furth twenty-five more.
+
+        We are pleased to invite submissions for our forthcoming 26th annual edition of the workshop on Computational Models of Natural Argument (CMNA'26). 
+
+        The CMNA workshop series focuses on the issue of modelling "natural" argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting “extra-rational” characteristics of the audience, taking into account emotions and affective factors.
+
+        We also solicit papers concerned with the full range of <a href="topics/" style="text-decoration:underline">topics</a> that CMNA usually focusses upon.
+
+  defaultTheme: auto
+  ShowPostNavLinks: true
+  #ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: true
+  TocSide: "right"
+  EnableInstantClick: true
+  EnableImageZoom: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: News
+          url: /news/
+          weight: 1
+        - name: Topics
+          url: /topics/
+          weight: 1
+        - name: Submission
+          url: /submission/
+          weight: 4
+        - name: Dates
+          url: /dates/
+          weight: 5
+        - name: Organisation
+          url: /organisation/
+          weight: 10
+        - name: Programme
+          url: /programme/
+          weight: 12
+        - name: Sponsors
+          url: /sponsors/
+          weight: 14
+        - name: About
+          url: /about/
+          weight: 15
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false
