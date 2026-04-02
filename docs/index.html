@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.133.1"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>CMNA&#39;26</title>
+
+<meta name="description" content="Theme PaperModX - https://github.com/reorx/hugo-PaperModX">
+<meta name="author" content="Simon">
+<link rel="canonical" href="https://cmna-workshop.github.io/cmna26/">
+<link crossorigin="anonymous" href="/cmna26/assets/css/stylesheet.min.8dd6f57454653644cba6929524e195dff93a26fa61dce2b3b2629e50b8d12816.css" integrity="sha256-jdb1dFRlNkTLppKVJOGV3/k6Jvph3OKzsmKeULjRKBY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://cmna-workshop.github.io/cmna26/favicon.ico">
+<link rel="apple-touch-icon" href="https://cmna-workshop.github.io/cmna26/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" href="https://cmna-workshop.github.io/cmna26/index.xml">
+<link rel="alternate" type="application/json" href="https://cmna-workshop.github.io/cmna26/index.json">
+<link rel="alternate" hreflang="en" href="https://cmna-workshop.github.io/cmna26/">
+
+<meta name="twitter:title" content="CMNA&#39;26" />
+<meta name="twitter:description" content="Theme PaperModX - https://github.com/reorx/hugo-PaperModX" />
+<meta property="og:title" content="CMNA&#39;26" />
+<meta property="og:description" content="Theme PaperModX - https://github.com/reorx/hugo-PaperModX" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://cmna-workshop.github.io/cmna26/" />
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "CMNA'26",
+  "url": "https://cmna-workshop.github.io/cmna26/",
+  "description": "Theme PaperModX - https://github.com/reorx/hugo-PaperModX",
+  "thumbnailUrl": "https://cmna-workshop.github.io/cmna26/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary-bg: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list-page {
+                background: var(--theme);
+            }
+
+            .list-page:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list-page:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
+</head>
+
+<body class="list-page type-page kind-home layout-" id="top"><script data-no-instant>
+function switchTheme(theme) {
+  switch (theme) {
+    case 'light':
+      document.body.classList.remove('dark');
+      break;
+    case 'dark':
+      document.body.classList.add('dark');
+      break;
+    
+    default:
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+      }
+  }
+}
+
+function isDarkTheme() {
+  return document.body.className.includes("dark");
+}
+
+function getPrefTheme() {
+  return localStorage.getItem("pref-theme");
+}
+
+function setPrefTheme(theme) {
+  switchTheme(theme)
+  localStorage.setItem("pref-theme", theme);
+}
+
+const toggleThemeCallbacks = {}
+toggleThemeCallbacks['main'] = (isDark) => {
+  
+  if (isDark) {
+    setPrefTheme('light');
+  } else {
+    setPrefTheme('dark');
+  }
+}
+
+
+
+
+window.addEventListener('toggle-theme', function() {
+  
+  const isDark = isDarkTheme()
+  for (const key in toggleThemeCallbacks) {
+    toggleThemeCallbacks[key](isDark)
+  }
+});
+
+
+function toggleThemeListener() {
+  
+  window.dispatchEvent(new CustomEvent('toggle-theme'));
+}
+
+</script>
+<script>
+  
+  (function() {
+    const defaultTheme = 'auto';
+    const prefTheme = getPrefTheme();
+    const theme = prefTheme ? prefTheme : defaultTheme;
+
+    switchTheme(theme);
+  })();
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://cmna-workshop.github.io/cmna26/" accesskey="h" title="CMNA&#39;26 (Alt + H)">CMNA&#39;26</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/news/" title="News"
+                >News
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/topics/" title="Topics"
+                >Topics
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/submission/" title="Submission"
+                >Submission
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/dates/" title="Dates"
+                >Dates
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/organisation/" title="Organisation"
+                >Organisation
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/programme/" title="Programme"
+                >Programme
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/sponsors/" title="Sponsors"
+                >Sponsors
+                </a>
+            </li>
+            <li>
+                <a href="https://cmna-workshop.github.io/cmna26/about/" title="About"
+                >About
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+  
+
+
+
+
+
+<article class="first-entry home-info">
+  <header class="entry-header">
+    <h1>The 26th International Workshop on Computational Models of Natural Argument (CMNA'26)</h1>
+  </header>
+  <section class="entry-content"><p>The forthcoming 26th Edition of the Workshop on Computational Models of Natural Argument (CMNA'26) will be held independently &amp; online as we celebrate twenty-five years of this workshop series and look forward to a furth twenty-five more.</p>
+<p>We are pleased to invite submissions for our forthcoming 26th annual edition of the workshop on Computational Models of Natural Argument (CMNA'26).</p>
+<p>The CMNA workshop series focuses on the issue of modelling &ldquo;natural&rdquo; argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting “extra-rational” characteristics of the audience, taking into account emotions and affective factors.</p>
+<p>We also solicit papers concerned with the full range of <a href="topics/" style="text-decoration:underline">topics</a> that CMNA usually focusses upon.</p>
+</section>
+  <footer class="entry-footer"><div class="social-icons">
+</div>
+</footer>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>About CMNA
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p>Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “natural” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting “extra-rational” characteristics of the audience, taking into account emotions and affective factors....</p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to About CMNA" href="https://cmna-workshop.github.io/cmna26/about/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Dates
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p> </p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to Dates" href="https://cmna-workshop.github.io/cmna26/dates/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>News &amp; Updates
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p> </p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to News & Updates" href="https://cmna-workshop.github.io/cmna26/news/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Organisation
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p>If you have any questions or queries then feel free to contact a member of the organising committee
+Organising Committee Giulia D’Agostino giulia.dagostino@usi.ch (Università della Svizzera italiana) Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Roos Scheffers r.j.scheffers@uu.nl Utrecht University Jodi Schneider jschneider@pobox.com University of Wisconsin–Madison Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Programme Committee Oana CocarascuKing&#39;s College London Yuanxi FuSchool of Information Sciences, University of Illinois Urbana-Champaign Boris GalitskyMoscow Institute of Physics and Technology Floriana GrassoUniversity of Liverpool Randy HarrisUniversity of Waterloo Zheng HengUniversity of Kentucky Stella HerasUniversitat Politecnica de Valencia Helmut HoracekSaarland University Loris IsabettiniUniversity of Windsor Antonis KakasUniversity of Cyprus Mare KoitUniversity of Tartu Elena MusiUniversity of Liverpool Rudi PalmieriUniversity of Liverpool Andrea PazienzaInnovation Lab, Exprivia S....</p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to Organisation" href="https://cmna-workshop.github.io/cmna26/organisation/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Programme
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p>We’ll publish a full timetable of events and links to papers CMNA&#39;26 closer to the event.</p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to Programme" href="https://cmna-workshop.github.io/cmna26/programme/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Sponsors
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p>We acknowledge the kind support of our sponsors &amp; supporters:
+Our 2026 host organisation, the 11th International Conference on Computational Models of Argument, and CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support....</p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to Sponsors" href="https://cmna-workshop.github.io/cmna26/sponsors/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Submission
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p>Considering a submission to CMNA? We pride ourselves on operating CMNA as a “broad church” and aiming for inclusiveness so if you’re unsure of whether CMNA is a good fit for your work you can:
+contact a member of the organising committee, or explore our archives at the CMNA.info site or survey a selection of papers from the CEUR archive of previous CMNA workshops: Volume #3769 (CMNA&#39;25), Volume #3769 (CMNA&#39;24), Volume #3614 (CMNA&#39;23), Volume #3205 (CMNA&#39;22), Volume #2937 (CMNA&#39;21), Volume #2269 (CMNA&#39;20), Volume #2346 (CMNA&#39;19), Volume #2048 (CMNA&#39;17), Volume #1876 (CMNA&#39;16) Downloadable Calls for Papers (CFP) Download a PDF version of the first call for papers Download a PDF version of the second call for papers Download a PDF version of the third &amp; final call for papers Workshop Submissions All submission types will be handled by the Conference Management Toolkit (CMT)....</p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to Submission" href="https://cmna-workshop.github.io/cmna26/submission/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Topics
+    </h2>
+  </header>
+  <section class="entry-content">
+    
+      <p>Regular Topics The CMNA workshop series focuses on the general issue of modelling “natural” argumentation.
+Contributions are solicited addressing, but not limited to, the following areas of interest:
+The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal aspects). The linguistic characteristics of natural argumentation, including discourse markers, sentence format, referring expressions, and style. The generation of natural argument. Corpus argumentation results and techniques. Argumentation mining. Models of natural legal argument....</p>
+    
+  </section>
+  <footer class="entry-footer">
+</footer>
+  <a class="entry-link" aria-label="post link to Topics" href="https://cmna-workshop.github.io/cmna26/topics/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+  <span>&copy; 2026 <a href="https://cmna-workshop.github.io/cmna26/">CMNA&#39;26</a></span><span style="display: inline-block; margin-left: 1em;">
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
+  </span>
+  <span style="display: inline-block; margin-left: 1em;">
+    Powered by
+    <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+    <a href="https://github.com/reorx/hugo-PaperModX/" rel="noopener" target="_blank">PaperModX</a>
+  </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+    <path d="M12 6H0l6-6z" />
+  </svg>
+</a>
+
+<script>
+  (function() {
+     
+    const disableThemeToggle = '' == '1';
+    if (disableThemeToggle) {
+      return;
+    }
+
+    let button = document.getElementById("theme-toggle")
+    
+    button.removeEventListener('click', toggleThemeListener)
+    
+    button.addEventListener('click', toggleThemeListener)
+  })();
+</script>
+
+<script>
+  (function () {
+    let menu = document.getElementById('menu')
+    if (menu) {
+      menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+      menu.onscroll = function () {
+        localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+      }
+    }
+
+    const disableSmoothScroll = '' == '1';
+    const enableInstantClick = '1' == '1';
+    
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || disableSmoothScroll || enableInstantClick) {
+      return;
+    }
+    
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener("click", function (e) {
+        e.preventDefault();
+        var id = this.getAttribute("href").substr(1);
+        document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+          behavior: "smooth"
+        });
+        if (id === "top") {
+          history.replaceState(null, null, " ");
+        } else {
+          history.pushState(null, null, `#${id}`);
+        }
+      });
+    });
+  })();
+</script>
+<script>
+  var mybutton = document.getElementById("top-link");
+  window.onscroll = function () {
+    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+      mybutton.style.visibility = "visible";
+      mybutton.style.opacity = "1";
+    } else {
+      mybutton.style.visibility = "hidden";
+      mybutton.style.opacity = "0";
+    }
+  };
+</script>
+<script>
+  if (window.scrollListeners) {
+    
+    for (const listener of scrollListeners) {
+      window.removeEventListener('scroll', listener)
+    }
+  }
+  window.scrollListeners = []
+</script>
+
+
+
+<script src="/cmna26/js/medium-zoom.min.js" data-no-instant
+></script>
+<script src="/cmna26/js/instantclick.min.js" data-no-instant
+></script>
+<script data-no-instant>
+  
+  
+  
+  
+  
+  
+  InstantClick.init();
+</script>
+</body>
+
+</html>
