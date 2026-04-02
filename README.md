@@ -1,6 +1,6 @@
 This is the repository for the website for CMNA'26.
 
-The site is built using Hugo and the "even" theme. The generated site is built into the 'docs' folder to ease deployment to GitHub Pages.
+The site is built using Hugo and the "PaperModX" theme. The generated site is built into the 'docs' folder to ease deployment to GitHub Pages.
 
 If you want to rebuild the site:
 
