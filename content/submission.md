@@ -65,7 +65,9 @@ If the following don't download automatically then please right click on the req
 
 # Pre-Proceedings Publication
 
-We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 25 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years. 
+We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. 
+
+So we plan to publish proceedings for CMNA 26 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years, but should there be a delay, we'll [pre-publish papers here](/cmna26/programme/) for use during the workshop.
 
 <!--# Post-Proceedings Publication-->
 
