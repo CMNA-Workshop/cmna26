@@ -23,16 +23,17 @@ We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiv
 
 # Downloadable Calls for Papers (CFP)
 
-* Download a PDF version of the [first call for papers](/cmna25/assets/cfp/cfp1.pdf) 
-* Download a PDF version of the [second call for papers](/cmna25/assets/cfp/cfp2.pdf)
-* Download a PDF version of the [third & final call for papers](/cmna25/assets/cfp/cfp3_final.pdf)
+This site covers all of the material in the CFP, but if you want a PDF version for offline use, feel free to grab one of these:
+<!--* Download a PDF version of the [first call for papers](/cmna25/assets/cfp/cfp1.pdf)-->
+<!--* Download a PDF version of the [second call for papers](/cmna25/assets/cfp/cfp2.pdf)-->
+<!--* Download a PDF version of the [third & final call for papers](/cmna25/assets/cfp/cfp3_final.pdf)-->
 <!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 
 # Workshop Submissions
 
 All submission types will be handled by the Conference Management Toolkit (CMT). Please submit your papers, demos, and posters via CMT using the following link:
 
-* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2025)**
+<!--* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2025)**-->
 
 
 # Workshop Categories
