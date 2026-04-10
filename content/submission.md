@@ -8,7 +8,7 @@ comments: false
 
 We pride ourselves on operating CMNA as a "broad church" and aiming for inclusiveness so if you're unsure of whether CMNA is a good fit for your work you can:
 
-1. [contact](/cmna24/organisation/) a member of the organising committee, or 
+1. [contact](/cmna26/organisation/) a member of the organising committee, or 
 2. explore our archives at the [CMNA.info](http://cmna.info) site or 
 3. survey a selection of papers from the CEUR archive of previous CMNA workshops:
     * [Volume #3769 (CMNA'25)](https://ceur-ws.org/Vol-4166/),
