@@ -292,11 +292,11 @@ Our 2026 host organisation, the 11th International Conference on Computational M
       
       <guid>https://cmna-workshop.github.io/cmna26/submission/</guid>
       <description>Considering a submission to CMNA? We pride ourselves on operating CMNA as a &amp;ldquo;broad church&amp;rdquo; and aiming for inclusiveness so if you&amp;rsquo;re unsure of whether CMNA is a good fit for your work you can:
-contact a member of the organising committee, or explore our archives at the CMNA.info site or survey a selection of papers from the CEUR archive of previous CMNA workshops: Volume #3769 (CMNA&#39;25), Volume #3769 (CMNA&#39;24), Volume #3614 (CMNA&#39;23), Volume #3205 (CMNA&#39;22), Volume #2937 (CMNA&#39;21), Volume #2269 (CMNA&#39;20), Volume #2346 (CMNA&#39;19), Volume #2048 (CMNA&#39;17), Volume #1876 (CMNA&#39;16) Downloadable Calls for Papers (CFP) Download a PDF version of the first call for papers Download a PDF version of the second call for papers Download a PDF version of the third &amp;amp; final call for papers Workshop Submissions All submission types will be handled by the Conference Management Toolkit (CMT).</description>
+contact a member of the organising committee, or explore our archives at the CMNA.info site or survey a selection of papers from the CEUR archive of previous CMNA workshops: Volume #3769 (CMNA&#39;25), Volume #3769 (CMNA&#39;24), Volume #3614 (CMNA&#39;23), Volume #3205 (CMNA&#39;22), Volume #2937 (CMNA&#39;21), Volume #2269 (CMNA&#39;20), Volume #2346 (CMNA&#39;19), Volume #2048 (CMNA&#39;17), Volume #1876 (CMNA&#39;16) Downloadable Calls for Papers (CFP) This site covers all of the material in the CFP, but if you want a PDF version for offline use, feel free to grab one of these:</description>
       <content:encoded><![CDATA[<h1 id="considering-a-submission-to-cmna">Considering a submission to CMNA?</h1>
 <p>We pride ourselves on operating CMNA as a &ldquo;broad church&rdquo; and aiming for inclusiveness so if you&rsquo;re unsure of whether CMNA is a good fit for your work you can:</p>
 <ol>
-<li><a href="/cmna24/organisation/">contact</a> a member of the organising committee, or</li>
+<li><a href="/cmna26/organisation/">contact</a> a member of the organising committee, or</li>
 <li>explore our archives at the <a href="http://cmna.info">CMNA.info</a> site or</li>
 <li>survey a selection of papers from the CEUR archive of previous CMNA workshops:
 <ul>
@@ -313,17 +313,14 @@ contact a member of the organising committee, or explore our archives at the CMN
 </li>
 </ol>
 <h1 id="downloadable-calls-for-papers-cfp">Downloadable Calls for Papers (CFP)</h1>
-<ul>
-<li>Download a PDF version of the <a href="/cmna25/assets/cfp/cfp1.pdf">first call for papers</a></li>
-<li>Download a PDF version of the <a href="/cmna25/assets/cfp/cfp2.pdf">second call for papers</a></li>
-<li>Download a PDF version of the <a href="/cmna25/assets/cfp/cfp3_final.pdf">third &amp; final call for papers</a></li>
-</ul>
+<p>This site covers all of the material in the CFP, but if you want a PDF version for offline use, feel free to grab one of these:</p>
+<!--* Download a PDF version of the [first call for papers](/cmna25/assets/cfp/cfp1.pdf)-->
+<!--* Download a PDF version of the [second call for papers](/cmna25/assets/cfp/cfp2.pdf)-->
+<!--* Download a PDF version of the [third & final call for papers](/cmna25/assets/cfp/cfp3_final.pdf)-->
 <!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 <h1 id="workshop-submissions">Workshop Submissions</h1>
 <p>All submission types will be handled by the Conference Management Toolkit (CMT). Please submit your papers, demos, and posters via CMT using the following link:</p>
-<ul>
-<li><strong><a href="https://cmt3.research.microsoft.com/CMNA2025">CMT submission link</a></strong></li>
-</ul>
+<!--* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2025)**-->
 <h1 id="workshop-categories">Workshop Categories</h1>
 <p>The workshop encourages submissions spanning a number of categories:</p>
 <ul>
@@ -345,7 +342,8 @@ contact a member of the organising committee, or explore our archives at the CMN
 <li>For Word Users: <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx">DOCX Template</a></li>
 </ul>
 <h1 id="pre-proceedings-publication">Pre-Proceedings Publication</h1>
-<p>We&rsquo;ve gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 25 through <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> as has happened in previous years.</p>
+<p>We&rsquo;ve gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work.</p>
+<p>So we plan to publish proceedings for CMNA 26 through <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> as has happened in previous years, but should there be a delay, we&rsquo;ll <a href="/cmna26/programme/">pre-publish papers here</a> for use during the workshop.</p>
 <!--# Post-Proceedings Publication-->
 <!--Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...-->
 <!--This year, in addition to our regular [topics](/cmna24/topics/) we are organising CMNA with the special theme of "[domains of natural argument](/cmna24/topics/#special-theme)". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument & Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.-->
