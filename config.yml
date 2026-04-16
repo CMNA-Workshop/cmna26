@@ -10,9 +10,7 @@ params:
   homeInfoParams:
     Title: "The 26th International Workshop on Computational Models of Natural Argument (CMNA'26)"
     Content: |
-        The forthcoming 26th Edition of the Workshop on Computational Models of Natural Argument (CMNA'26) will be held independently & online as we celebrate twenty-five years of this workshop series and look forward to a furth twenty-five more.
-
-        We are pleased to invite submissions for our forthcoming 26th annual edition of the workshop on Computational Models of Natural Argument (CMNA'26). 
+        We are pleased to invite submissions for our forthcoming 26th annual edition of the workshop on Computational Models of Natural Argument (CMNA'26) which  will be hosted by the [11th International Conference on Computational Models of Argument](https://comma2026.vercel.app/) (COMMA 2026).
 
         The CMNA workshop series focuses on the issue of modelling "natural" argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting “extra-rational” characteristics of the audience, taking into account emotions and affective factors.
 
