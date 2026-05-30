@@ -281,11 +281,11 @@ This year we've coordinated with the [interdisciplinary monthly online speaker s
       
       <guid>https://cmna-workshop.github.io/cmna26/sponsors/</guid>
       <description>We acknowledge the kind support of our sponsors &amp;amp; supporters:
-Our 2026 host organisation, the 11th International Conference on Computational Models of Argument, and CEUR Workshop proceedings who graciously host our published papers. The TIB who provide long-term archival hosting for CMNA proceedings. The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</description>
+Our 2026 host organisation, the 11th International Conference on Computational Models of Argument, and CEUR Workshop proceedings who graciously host our published papers from past events. The TIB who provide long-term archival hosting for CMNA proceedings. The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</description>
       <content:encoded><![CDATA[<p>We acknowledge the kind support of our sponsors &amp; supporters:</p>
 <ul>
 <li>Our 2026 host organisation, the <a href="https://comma2026.vercel.app/">11th International Conference on Computational Models of Argument</a>, and</li>
-<li><a href="https://ceur-ws.org">CEUR Workshop proceedings</a> who graciously host our published papers.</li>
+<li><a href="https://ceur-ws.org">CEUR Workshop proceedings</a> who graciously host our published papers from past events.</li>
 <li>The <a href="https://www.tib.eu/en/">TIB</a> who provide long-term archival hosting for CMNA proceedings.</li>
 <li>The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</li>
 </ul>
@@ -321,13 +321,17 @@ contact a member of the organising committee, or explore our archives at the CMN
 </ol>
 <h1 id="downloadable-calls-for-papers-cfp">Downloadable Calls for Papers (CFP)</h1>
 <p>This site covers all of the material in the CFP, but if you want a PDF version for offline use, feel free to grab one of these:</p>
-<!--* Download a PDF version of the [first call for papers](/cmna25/assets/cfp/cfp1.pdf)-->
+<ul>
+<li>Download a PDF version of the <a href="/cmna26/assets/cfp/cfp1.pdf">first call for papers</a></li>
+</ul>
 <!--* Download a PDF version of the [second call for papers](/cmna25/assets/cfp/cfp2.pdf)-->
 <!--* Download a PDF version of the [third & final call for papers](/cmna25/assets/cfp/cfp3_final.pdf)-->
 <!--* Download a PDF version of the [fourth call for papers](/cmna23/assets/cfp/cfp4.pdf)-->
 <h1 id="workshop-submissions">Workshop Submissions</h1>
 <p>All submission types will be handled by the Conference Management Toolkit (CMT). Please submit your papers, demos, and posters via CMT using the following link:</p>
-<!--* **[CMT submission link](https://cmt3.research.microsoft.com/CMNA2025)**-->
+<ul>
+<li><strong><a href="https://cmt3.research.microsoft.com/CMNA2026">CMT submission link</a></strong></li>
+</ul>
 <h1 id="workshop-categories">Workshop Categories</h1>
 <p>The workshop encourages submissions spanning a number of categories:</p>
 <ul>
@@ -338,11 +342,9 @@ contact a member of the organising committee, or explore our archives at the CMN
 <li>Late breaking results (2 page abstract reporting the results).</li>
 </ul>
 <p>All submissions may also use as many additional pages as are necessary for references.</p>
-<p>All accepted submissions will be archived locally on this site. Long &amp; short papers will also be archved through CEUR workshop proceedings. Demos &amp; posters will only be archived locally.</p>
-<p>It is highly recommended, but not mandatory, to format papers using the <a href="http://ceur-ws.org/Vol-XXX/">CEUR Single Column Style</a> (more details below in the style section).</p>
+<p>All accepted submissions will be archived locally on this site. We intend to also submit a volume of long &amp; short papers to be archved as workshop proceedings through CEUR. Demos &amp; posters will only be archived locally.</p>
 <h1 id="contribution-style">Contribution Style</h1>
-<p>For final proceedings submission we&rsquo;ll use the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR styles</a> specifically the single column style from <a href="http://ceur-ws.org/Vol-XXX/">this page</a>. It is recommended that you prepare your submission for review using this style.</p>
-<p>If the following don&rsquo;t download automatically then please right click on the required link and select &ldquo;save link as&hellip;&rdquo; from the pop-up menu.</p>
+<p>For final proceedings submission it is mandatory to use the <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">CEUR styles</a> specifically the single column style from <a href="http://ceur-ws.org/Vol-XXX/">this page</a>. It is also highly recommended that you prepare your submission for initial review using this style to avoid challenges later.</p>
 <ul>
 <li>For LaTeX users: Use the <a href="https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk">Overleaf CEUR LaTeX template</a> or download the <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">zip archive</a> for offline LaTeX compilation.</li>
 <li>For Open Document Format users: <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt">ODT Template</a></li>
@@ -350,7 +352,7 @@ contact a member of the organising committee, or explore our archives at the CMN
 </ul>
 <h1 id="pre-proceedings-publication">Pre-Proceedings Publication</h1>
 <p>We&rsquo;ve gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work.</p>
-<p>So we plan to publish proceedings for CMNA 26 through <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> as has happened in previous years, but should there be a delay, we&rsquo;ll <a href="/cmna26/programme/">pre-publish papers here</a> for use during the workshop.</p>
+<p>So we intend, time permitting, to publish proceedings for CMNA 26 through <a href="http://ceur-ws.org/">CEUR Workshop Proceedings</a> as has happened in some previous years, but should there be a delay, we&rsquo;ll <a href="/cmna26/programme/">pre-publish papers here</a> for use during the workshop.</p>
 <!--# Post-Proceedings Publication-->
 <!--Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...-->
 <!--This year, in addition to our regular [topics](/cmna24/topics/) we are organising CMNA with the special theme of "[domains of natural argument](/cmna24/topics/#special-theme)". Contributions to this theme will form the focus of a subsequent, post-workshop, special issue of the Journal of Argument & Computation. Extended papers will be solicited in a special issue call immediately after the CMNA workshop.-->
