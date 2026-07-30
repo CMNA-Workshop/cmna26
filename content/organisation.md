@@ -51,7 +51,7 @@ School of Computing, Edinburgh Napier University</dd>
 <dt>Mare Koit</dt><dd>University of Tartu</dd>
 <dt>Elena Musi</dt><dd>University of Liverpool</dd>
 <dt>Rudi Palmieri</dt><dd>University of Liverpool</dd>
-<dt>Andrea Pazienza</dt><dd>Innovation Lab, Exprivia S.p.A.</dd>
+<dt>Andrea Pazienza</dt><dd>A3K Srl & NTT DATA</dd>
 <dt>Paul Piwek</dt><dd>The Open University</dd>
 <dt>Antonio	Rago</dt><dd>Imperial College London</dd>
 <dt>Ramon Ruiz-Dolz</dt><dd>Centre for Argument Technology, University of Dundee</dd>
