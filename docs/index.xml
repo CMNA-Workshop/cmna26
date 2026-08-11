@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CMNA&#39;26</title>
-    <link>http://localhost:1313/cmna26/</link>
+    <link>https://cmna-workshop.github.io/cmna26/</link>
     <description>Recent content on CMNA&#39;26</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/cmna26/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cmna-workshop.github.io/cmna26/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About CMNA</title>
-      <link>http://localhost:1313/cmna26/about/</link>
+      <link>https://cmna-workshop.github.io/cmna26/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/about/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/about/</guid>
       <description>&lt;p&gt;Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “&lt;em&gt;natural&lt;/em&gt;” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting &amp;ldquo;extra-rational&amp;rdquo; characteristics of the audience, taking into account emotions and affective factors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dates</title>
-      <link>http://localhost:1313/cmna26/dates/</link>
+      <link>https://cmna-workshop.github.io/cmna26/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/dates/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/dates/</guid>
       <description>&lt;!--* Updated Paper Submission Deadline (long &amp; short papers): **15th July 2024**--&gt;
 &lt;ul&gt;
 &lt;li&gt;Regular Paper submission (long &amp;amp; short papers): &lt;strong&gt;6th July 2026&lt;/strong&gt;&lt;/li&gt;
@@ -29,15 +29,17 @@
 &lt;li&gt;Demo, position statement, &amp;amp; late breaking results submission (2 page abstract): &lt;strong&gt;14th August 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Demo, position statement, &amp;amp; late breaking results Notification to authors: &lt;strong&gt;21st August 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Final (Camera Ready) version of all contributions: &lt;strong&gt;31st August 2026&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Workshop (exact date to be confirmed): &lt;strong&gt;14-15th September 2026&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Workshop (exact date to be confirmed): &lt;strong&gt;14th September 2026&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>News &amp; Updates</title>
-      <link>http://localhost:1313/cmna26/news/</link>
+      <link>https://cmna-workshop.github.io/cmna26/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/news/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;[2026.08.11] Notification to long and short paper authors sent out today.&lt;/li&gt;
+&lt;li&gt;[2026.08.10] Final workshop date finalised. CMNA&#39;26 will be happening on Monday 14th September in the &amp;ldquo;Salon de actos&amp;rdquo; of the COMMA workshops venue.&lt;/li&gt;
 &lt;li&gt;[2026.04.02] All new CMNA&#39;26 Website published.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--* [2025.11.16] Communicate [updated dates](/cmna25/dates) for reviewing schedule
@@ -83,9 +85,9 @@
     </item>
     <item>
       <title>Organisation</title>
-      <link>http://localhost:1313/cmna26/organisation/</link>
+      <link>https://cmna-workshop.github.io/cmna26/organisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/organisation/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/organisation/</guid>
       <description>&lt;p&gt;If you have any questions or queries then feel free to contact a member of the organising committee&lt;/p&gt;
 &lt;h1 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h1&gt;
 &lt;dl&gt;
@@ -135,9 +137,9 @@ School of Computing, Edinburgh Napier University&lt;/dd&gt;
     </item>
     <item>
       <title>Programme</title>
-      <link>http://localhost:1313/cmna26/programme/</link>
+      <link>https://cmna-workshop.github.io/cmna26/programme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/programme/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/programme/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ll publish a full timetable of events and links to papers CMNA&#39;26 closer to the event.&lt;/p&gt;
 &lt;!--
 * Self-register to attend CMNA&#39;25 for free via this [Zoom Link](https://uwmadison.zoom.us/meeting/register/EiifF5NdTp2cL_kYajpXPw).--&gt;
@@ -246,9 +248,9 @@ This year we&#39;ve coordinated with the [interdisciplinary monthly online speak
     </item>
     <item>
       <title>Sponsors</title>
-      <link>http://localhost:1313/cmna26/sponsors/</link>
+      <link>https://cmna-workshop.github.io/cmna26/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/sponsors/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/sponsors/</guid>
       <description>&lt;p&gt;We acknowledge the kind support of our sponsors &amp;amp; supporters:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Our 2026 host organisation, the &lt;a href=&#34;https://comma2026.vercel.app/&#34;&gt;11th International Conference on Computational Models of Argument&lt;/a&gt;, and&lt;/li&gt;
@@ -259,13 +261,13 @@ This year we&#39;ve coordinated with the [interdisciplinary monthly online speak
     </item>
     <item>
       <title>Submission</title>
-      <link>http://localhost:1313/cmna26/submission/</link>
+      <link>https://cmna-workshop.github.io/cmna26/submission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/submission/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/submission/</guid>
       <description>&lt;h1 id=&#34;considering-a-submission-to-cmna&#34;&gt;Considering a submission to CMNA?&lt;/h1&gt;
 &lt;p&gt;We pride ourselves on operating CMNA as a &amp;ldquo;broad church&amp;rdquo; and aiming for inclusiveness so if you&amp;rsquo;re unsure of whether CMNA is a good fit for your work you can:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/cmna26/organisation/&#34;&gt;contact&lt;/a&gt; a member of the organising committee, or&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmna-workshop.github.io/cmna26/organisation/&#34;&gt;contact&lt;/a&gt; a member of the organising committee, or&lt;/li&gt;
 &lt;li&gt;explore our archives at the &lt;a href=&#34;http://cmna.info&#34;&gt;CMNA.info&lt;/a&gt; site or&lt;/li&gt;
 &lt;li&gt;survey a selection of papers from the CEUR archive of previous CMNA workshops:
 &lt;ul&gt;
@@ -286,9 +288,9 @@ This year we&#39;ve coordinated with the [interdisciplinary monthly online speak
     </item>
     <item>
       <title>Topics</title>
-      <link>http://localhost:1313/cmna26/topics/</link>
+      <link>https://cmna-workshop.github.io/cmna26/topics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cmna26/topics/</guid>
+      <guid>https://cmna-workshop.github.io/cmna26/topics/</guid>
       <description>&lt;!--# Special Theme
 
 To celebrate this landmark year, we solicit contributions on the special theme of:
