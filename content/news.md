@@ -5,6 +5,7 @@ comments: false
 ---
 
 
+* [2026.08.10] Final workshop date finalised. CMNA'26 will be happening on Monday 14th September in the "Salon de actos" of the COMMA workshops venue.
 * [2026.04.02] All new CMNA'26 Website published.
 
 <!--* [2025.11.16] Communicate [updated dates](/cmna25/dates) for reviewing schedule
