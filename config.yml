@@ -1,12 +1,10 @@
 baseURL: https://cmna-workshop.github.io/cmna26
 languageCode: en-gb
 title: CMNA'26
-theme: PaperModX
+theme: PaperMod
 publishDir: docs
 params:
   description: "Theme PaperModX - https://github.com/reorx/hugo-PaperModX"
-  author:
-    - Simon
   homeInfoParams:
     Title: "The 26th International Workshop on Computational Models of Natural Argument (CMNA'26)"
     Content: |
